@@ -1,8 +1,8 @@
-#Parking Space Control in ARM Assembly#
+**Parking Space Control in ARM Assembly**
 Overview
 This project implements a parking space control system using ARM Assembly, developed in Keil for the Cortex-M0+ microcontroller. The system simulates a microcontroller managing parking spaces by detecting incoming cars and controlling a barrier based on availability.
 
-Features
+**Features**
 Car Detection: A simulated weight sensor detects vehicles.
 Parking Space Check: The system monitors available parking spaces.
 Barrier Control: The entrance barrier opens if parking is available.
